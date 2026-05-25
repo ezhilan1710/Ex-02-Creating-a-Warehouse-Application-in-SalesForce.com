@@ -1,4 +1,6 @@
 # Ex-06-Creating-a-Warehouse-Application-in-SalesForce.com
+NAME : EZHILAN N
+REG NO : 212224030007
 
 ## AIM
 
